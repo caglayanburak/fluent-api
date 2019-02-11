@@ -1,0 +1,11 @@
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/bin/Debug/netcoreapp2.2/FluentInterfaceSample.deps.json
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/bin/Debug/netcoreapp2.2/FluentInterfaceSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/bin/Debug/netcoreapp2.2/FluentInterfaceSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/bin/Debug/netcoreapp2.2/FluentInterfaceSample.dll
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/bin/Debug/netcoreapp2.2/FluentInterfaceSample.pdb
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.dll
+/Users/burakcaglayan/Projects/FluentInterfaceSample/FluentInterfaceSample/obj/Debug/netcoreapp2.2/FluentInterfaceSample.pdb
